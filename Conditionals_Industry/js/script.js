@@ -6,6 +6,6 @@ var scoreAbove = (100);
 var scoreBelow = (99);
 
 if (scoreAbove >= 100)
-	console.log=("You win the bet!")
+	console.log=("You win the bet!");
 else (scoreBelow <= 99);
 	console.log=("You lose the bet@!")"
