@@ -10,8 +10,9 @@ if (scoreAbove >= 100){
 	console.log=("You win the bet!");
 }
 	
-else if (scoreBelow <= 99)}
+else if (scoreBelow <= 99){
 	console.log=("You lose the bet!");
-{
-else if (score !<= scoreAbove && score !>= scorebelow)
-	console.log=("You did not play!")
+}
+else if (score !<= scoreAbove && score !>= scorebelow){
+	console.log=("You did not play!");
+}
