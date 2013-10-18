@@ -1,1 +1,3 @@
-This is the Javascript file
+Harmony Cornett 10/17/2013
+
+//Favorit Colors and personality type!
