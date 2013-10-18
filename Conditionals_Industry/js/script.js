@@ -7,4 +7,4 @@ var scoreBelow = (99);
 
 if (scoreAbove >= 100)
 	console.log=("You win the bet!")
-else (scoreBelow <= 99)
+else (scoreBelow <= 99);
