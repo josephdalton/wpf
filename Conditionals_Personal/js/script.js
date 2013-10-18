@@ -5,9 +5,9 @@ Harmony Cornett 10/17/2013
 
 var eggsInBasket = (">= 10")
 
-if (eggsInBasket >= 10)}
-	console.log("You win the prize!")
+if (eggsInBasket >= 10)  }
+	console.log("You win the prize!");
 {
-else (eggsInBasket <= 10) }
+else (eggsInBasket <= 10)  }
 	console.log("Better luck next year!")
 {
