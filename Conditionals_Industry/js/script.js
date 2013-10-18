@@ -4,6 +4,6 @@ Harmony Cornett 10/17/2013
 
 //What is your favorite color? What it says about your personality!
 
-var brown = 
+var brown = ()
 var red = 
 var blue =
