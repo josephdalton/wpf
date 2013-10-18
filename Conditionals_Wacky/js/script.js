@@ -6,11 +6,14 @@ Conditionals_Wacky
 
 var raining = ("We get out of school early!");
 var snowing = ("We don/'t have to go to school today!");
-var neither = (!= "raining" + "snowing"= "We will stay in school for the full day!");
+var neither = (raining != raining && snowing != snowing + "We will stay in school for the full day!");
 
-if (raining)  {
-	statements if condition is TRUE
+if (raining===raining)  {
+	console.log("We get out of school early!")
 }
-else	{
-	statements if condition if FALSE
+else if	 (snowing === snowing);  {
+	console.log(We don/'t have to go to school today!");
+}
+else if (raining != raining && snowing != snowing) {
+	console.log("We will stay in school for the full day!");
 }
