@@ -1,6 +1,6 @@
 Harmony Cornett 10/17/2013
 
-//Easter Egg Hunt baskets
+//Easter Egg Hunt
 //Whoever found more than 10 eggs, in their Easter basket, wins the prize!
 
 var eggsInBasket = (">= 10")
