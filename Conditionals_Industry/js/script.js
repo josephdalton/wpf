@@ -5,4 +5,5 @@ Harmony Cornett 10/17/2013
 var scoreAbove = (100);
 var scoreBelow = (99);
 
-if 
+if (scoreAbove >= 100)
+	console.log=("You win the bet!")
