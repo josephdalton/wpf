@@ -4,7 +4,7 @@ Harmony Cornett 10/17/2013
 //Whoever found more than 10 eggs, in their Easter basket, wins the prize!
 
 var eggsInBasket = (">= 10")
-
+var = "x"
 if (eggsInBasket === >10)}
 	console.log("You win the prize!")
 {
