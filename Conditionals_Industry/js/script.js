@@ -5,4 +5,4 @@ Harmony Cornett 10/17/2013
 var scoreAbove = (100);
 var scoreBelow = (99);
 
-if insert 
+if 
