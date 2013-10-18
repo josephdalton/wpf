@@ -10,5 +10,5 @@ if (scoreAbove >= 100){
 }
 	
 else (scoreBelow <= 99)}
-	console.log=("You lose the bet!")
+	console.log=("You lose the bet!");
 {
