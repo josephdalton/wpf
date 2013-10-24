@@ -6,3 +6,5 @@
 if (candy == "purple") {
 	console.log("Yuck!")
 } else {
+	console.log("Yum!");
+}
