@@ -3,8 +3,8 @@
 
 //Functions Assignment (Functions_Wacky)
 
-if (candy == "purple") {
-	console.log("Yuck!")
-} else {
+if (candy >= 10) {
+	console.log("It's a tummy-ache waiting to happen!");
+} else if {
 	console.log("Yum!");
 }
