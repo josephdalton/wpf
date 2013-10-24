@@ -8,5 +8,5 @@ if (candy >= 10) {
 } else if (candy <= 2) {
 	console.log("Yum!");
 }else {
-	console.log(insert something here)
+	console.log("on your way to a tummy ache"))
 }
