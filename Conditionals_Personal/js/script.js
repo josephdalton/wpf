@@ -12,3 +12,5 @@ if (eggsInBasket >= 10)  }
 else (eggsInBasket <= 10)  }
 	console.log("Better luck next year!");
 {
+	
+	//There are missing sections of this code.
