@@ -4,5 +4,5 @@
 //Functions Assignment (Functions_Wacky)
 
 if (candy == "purple") {
-	console.log
-}
+	console.log("Yuck!")
+} else {
