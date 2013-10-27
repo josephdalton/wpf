@@ -12,3 +12,4 @@ function paychecks (paycheck1, paycheck2, paycheck3){
 	 console.log("You do not have enough for the tv, keep saving!");
 }
 
+//There are significant issues with this code. It won't run, has significant issues with structure, missing braces, no conditionals (as stated in the comments).
